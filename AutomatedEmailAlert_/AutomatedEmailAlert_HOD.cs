@@ -76,7 +76,6 @@ namespace AutomatedEmailAlert_HOD
                         MailToHODs = sHODEmail;
                         //"pankaj.gupta@isgec.co.in;sagar.shukla@isgec.co.in";
                         //"hariharan.m@isgec.co.in";
-                        //sHODEmail;
                         //"sagar.shukla@isgec.co.in";
                         // sHODEmail = "pankaj.gupta@isgec.co.in";
                         //sBuyerEmail + ";" + sIndenterEmail;
